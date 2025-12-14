@@ -1,0 +1,602 @@
+[
+    {
+        "id": 1,
+        "question": "What is the name of the first game mode in Dog Witch?",
+        "image": "https://img.youtube.com/vi/czpAtiU7P08/hqdefault.jpg",
+        "difficulty": 1,
+        "answers": [
+            {
+                "text": "Classic",
+                "isCorrect": true
+            },
+            {
+                "text": "Normal",
+                "isCorrect": false
+            },
+            {
+                "text": "Adventure",
+                "isCorrect": false
+            },
+            {
+                "text": "Basic",
+                "isCorrect": false
+            }
+        ],
+        "type": 1
+    },
+    {
+        "id": 2,
+        "question": "What is the name of final boss in Dog Witch?",
+        "image": "https://img.youtube.com/vi/Yol0nDsiJTg/hqdefault.jpg",
+        "difficulty": 1,
+        "answers": [
+            {
+                "text": "Mad Master Wizard",
+                "isCorrect": true
+            },
+            {
+                "text": "Big Bad Wizard",
+                "isCorrect": false
+            },
+            {
+                "text": "Cruel Owner Wizard",
+                "isCorrect": false
+            },
+            {
+                "text": "Crazy Keeper Wizard",
+                "isCorrect": false
+            }
+        ],
+        "type": 1
+    },
+    {
+        "id": 3,
+        "question": "Who are shown in the video playing on the TV monster?",
+        "image": "images/3.png",
+        "difficulty": 1,
+        "answers": [
+            {
+                "text": "Squirrels",
+                "isCorrect": true
+            },
+            {
+                "text": "Snakes",
+                "isCorrect": false
+            },
+            {
+                "text": "Cats",
+                "isCorrect": false
+            },
+            {
+                "text": "Bees",
+                "isCorrect": false
+            }
+        ],
+        "type": 1
+    },
+    {
+        "id": 4,
+        "question": "What is the name of a summon who increases strength after attacking?",
+        "image": "https://img.youtube.com/vi/MkN0_XBWCUM/hqdefault.jpg",
+        "difficulty": 1,
+        "answers": [
+            {
+                "text": "Lil Beasties",
+                "isCorrect": true
+            },
+            {
+                "text": "Troll",
+                "isCorrect": false
+            },
+            {
+                "text": "Stone Totems",
+                "isCorrect": false
+            },
+            {
+                "text": "Gun Rats",
+                "isCorrect": false
+            }
+        ],
+        "type": 1
+    },
+    {
+        "id": 5,
+        "question": "What is the name of boss with pistols in the desert?",
+        "image": "https://img.youtube.com/vi/Sr4RMTiJg8U/hqdefault.jpg",
+        "difficulty": 1,
+        "answers": [
+            {
+                "text": "Sheriff Bozo",
+                "isCorrect": true
+            },
+            {
+                "text": "Bloody Ben",
+                "isCorrect": false
+            },
+            {
+                "text": "Cowboy Bill",
+                "isCorrect": false
+            },
+            {
+                "text": "Quickdraw Bob",
+                "isCorrect": false
+            }
+        ],
+        "type": 1
+    },
+    {
+        "id": 6,
+        "question": "What is the name of main location in the Roottrees are dead?",
+        "image": "https://img.youtube.com/vi/Ydwd_mh2cjU/hqdefault.jpg",
+        "difficulty": 1,
+        "answers": [
+            {
+                "text": "Butler County",
+                "isCorrect": true
+            },
+            {
+                "text": "Alpine Hamlet",
+                "isCorrect": false
+            },
+            {
+                "text": "Hudson Borough",
+                "isCorrect": false
+            },
+            {
+                "text": "Madison Village",
+                "isCorrect": false
+            }
+        ],
+        "type": 1
+    },
+    {
+        "id": 7,
+        "question": "What is the name of search engine in the Roottrees are dead?",
+        "image": "https://img.youtube.com/vi/y-pywz3VpCc/hqdefault.jpg",
+        "difficulty": 1,
+        "answers": [
+            {
+                "text": "SpiderSearch",
+                "isCorrect": true
+            },
+            {
+                "text": "MatrixFind",
+                "isCorrect": false
+            },
+            {
+                "text": "ArchiveEngine",
+                "isCorrect": false
+            },
+            {
+                "text": "LatticeRank",
+                "isCorrect": false
+            }
+        ],
+        "type": 2
+    },
+    {
+        "id": 8,
+        "question": "What is the name of generation of Carl Roottree?",
+        "image": "https://img.youtube.com/vi/Wqh3sN7M2SY/hqdefault.jpg",
+        "difficulty": 1,
+        "answers": [
+            {
+                "text": "The Free Spirits",
+                "isCorrect": true
+            },
+            {
+                "text": "The 5pieces",
+                "isCorrect": false
+            },
+            {
+                "text": "The Next Generation",
+                "isCorrect": false
+            },
+            {
+                "text": "The Unbound Generation",
+                "isCorrect": false
+            }
+        ],
+        "type": 1
+    },
+    {
+        "id": 9,
+        "question": "What is the first name of A Life Between Wars book author?",
+        "image": "https://img.youtube.com/vi/WnHK7wrH4Fw/hqdefault.jpg",
+        "difficulty": 1,
+        "answers": [
+            {
+                "text": "Lauren",
+                "isCorrect": true
+            },
+            {
+                "text": "Samantha",
+                "isCorrect": false
+            },
+            {
+                "text": "Gwynn",
+                "isCorrect": false
+            },
+            {
+                "text": "Caroline",
+                "isCorrect": false
+            }
+        ],
+        "type": 2
+    },
+    {
+        "id": 10,
+        "question": "What is the name of green flavor in 5pieces candies?",
+        "image": "images/10.png",
+        "difficulty": 1,
+        "answers": [
+            {
+                "text": "Awesome Apple",
+                "isCorrect": true
+            },
+            {
+                "text": "Lush Lime",
+                "isCorrect": false
+            },
+            {
+                "text": "Great Grape",
+                "isCorrect": false
+            },
+            {
+                "text": "Kool Kiwi",
+                "isCorrect": false
+            }
+        ],
+        "type": 1
+    },
+    {
+        "id": 11,
+        "question": "What kind of farm Elias's wife inherited?",
+        "image": "https://img.youtube.com/vi/vLccUKucXlQ/hqdefault.jpg",
+        "difficulty": 1,
+        "answers": [
+            {
+                "text": "Maple",
+                "isCorrect": true
+            },
+            {
+                "text": "Dairy",
+                "isCorrect": false
+            },
+            {
+                "text": "Berry",
+                "isCorrect": false
+            },
+            {
+                "text": "Fruit",
+                "isCorrect": false
+            }
+        ],
+        "type": 2
+    },
+    {
+        "id": 12,
+        "question": "What was the full name of E.C. roommate.",
+        "image": "https://img.youtube.com/vi/PZ9KGWsoDXQ/hqdefault.jpg",
+        "difficulty": 1,
+        "answers": [
+            {
+                "text": "John Miller",
+                "isCorrect": true
+            },
+            {
+                "text": "Jack Potter",
+                "isCorrect": false
+            },
+            {
+                "text": "James Tanner",
+                "isCorrect": false
+            },
+            {
+                "text": "Jim Shepherd",
+                "isCorrect": false
+            }
+        ],
+        "type": 2
+    },
+    {
+        "id": 13,
+        "question": "What is the name of mining minigame in Cauldron?",
+        "image": "https://img.youtube.com/vi/oRdCKqvLj0s/hqdefault.jpg",
+        "difficulty": 1,
+        "answers": [
+            {
+                "text": "Rock Digging",
+                "isCorrect": true
+            },
+            {
+                "text": "Ore Crushing",
+                "isCorrect": false
+            },
+            {
+                "text": "Gem Collecting",
+                "isCorrect": false
+            },
+            {
+                "text": "Vein Plundering",
+                "isCorrect": false
+            }
+        ],
+        "type": 1
+    },
+    {
+        "id": 14,
+        "question": "How Mortimer character called himself in Cauldron?",
+        "image": "images/14.png",
+        "difficulty": 1,
+        "answers": [
+            {
+                "text": "Doctor Death",
+                "isCorrect": true
+            },
+            {
+                "text": "Professor Plague",
+                "isCorrect": false
+            },
+            {
+                "text": "Baron Blight",
+                "isCorrect": false
+            },
+            {
+                "text": "Mister Doom",
+                "isCorrect": false
+            }
+        ],
+        "type": 3
+    },
+    {
+        "id": 15,
+        "question": "What is the name of auto-drill weapon in Ice minigame?",
+        "image": "https://img.youtube.com/vi/BnHXRWPymC4/hqdefault.jpg",
+        "difficulty": 1,
+        "answers": [
+            {
+                "text": "Drillbert",
+                "isCorrect": true
+            },
+            {
+                "text": "Drilliam",
+                "isCorrect": false
+            },
+            {
+                "text": "Drillkins",
+                "isCorrect": false
+            },
+            {
+                "text": "Drillbot",
+                "isCorrect": false
+            }
+        ],
+        "type": 2
+    },
+    {
+        "id": 16,
+        "question": "What is the name of bird elder in Cauldron?",
+        "image": "images/16.png",
+        "difficulty": 1,
+        "answers": [
+            {
+                "text": "Bigsby",
+                "isCorrect": true
+            },
+            {
+                "text": "Corvus",
+                "isCorrect": false
+            },
+            {
+                "text": "Talus",
+                "isCorrect": false
+            },
+            {
+                "text": "Skyler",
+                "isCorrect": false
+            }
+        ],
+        "type": 1
+    },
+    {
+        "id": 17,
+        "question": "Which character's ult can suck all crystals in cart minigame? ",
+        "image": "images/17.png",
+        "difficulty": 1,
+        "answers": [
+            {
+                "text": "Cleanse",
+                "isCorrect": true
+            },
+            {
+                "text": "Ticktock",
+                "isCorrect": false
+            },
+            {
+                "text": "Hearth",
+                "isCorrect": false
+            },
+            {
+                "text": "Thor",
+                "isCorrect": false
+            }
+        ],
+        "type": 3
+    },
+    {
+        "id": 18,
+        "question": "What is the name of main character in Cauldron?",
+        "image": "https://img.youtube.com/vi/sHpIaxnC3Os/hqdefault.jpg",
+        "difficulty": 1,
+        "answers": [
+            {
+                "text": "Nyx",
+                "isCorrect": true
+            },
+            {
+                "text": "Witch",
+                "isCorrect": false
+            },
+            {
+                "text": "Buffy",
+                "isCorrect": false
+            },
+            {
+                "text": "Lilith",
+                "isCorrect": false
+            }
+        ],
+        "type": 1
+    },
+    {
+        "id": 19,
+        "question": "When this power-up is active you don't lose hook weight in fishing minigame.",
+        "image": "https://img.youtube.com/vi/ps2eADdPmBQ/hqdefault.jpg",
+        "difficulty": 1,
+        "answers": [
+            {
+                "text": "Golden Hook",
+                "isCorrect": true
+            },
+            {
+                "text": "Golden Fish Zone",
+                "isCorrect": false
+            },
+            {
+                "text": "Zero Weight",
+                "isCorrect": false
+            },
+            {
+                "text": "Absolute Strength",
+                "isCorrect": false
+            }
+        ],
+        "type": 1
+    },
+    {
+        "id": 20,
+        "question": "What is the name of currency to upgrade party abilities?",
+        "image": "https://img.youtube.com/vi/1xzlWhGokrg/hqdefault.jpg",
+        "difficulty": 1,
+        "answers": [
+            {
+                "text": "Spirit",
+                "isCorrect": true
+            },
+            {
+                "text": "Books",
+                "isCorrect": false
+            },
+            {
+                "text": "Mana",
+                "isCorrect": false
+            },
+            {
+                "text": "Crystals",
+                "isCorrect": false
+            }
+        ],
+        "type": 2
+    },
+    {
+        "id": 21,
+        "question": "What is the name of the ship that can swap module places during battle?",
+        "image": "https://img.youtube.com/vi/9Pf95zwbtPo/hqdefault.jpg",
+        "difficulty": 1,
+        "answers": [
+            {
+                "text": "Spacewalker",
+                "isCorrect": true
+            },
+            {
+                "text": "Spectra",
+                "isCorrect": false
+            },
+            {
+                "text": "Speedster",
+                "isCorrect": false
+            },
+            {
+                "text": "Lonewolf",
+                "isCorrect": false
+            }
+        ],
+        "type": 1
+    },
+    {
+        "id": 22,
+        "question": "What is the criminal name of Lonestar scriptwriter's coolest boss?",
+        "image": "https://img.youtube.com/vi/cQHtyjvqMn0/hqdefault.jpg",
+        "difficulty": 1,
+        "answers": [
+            {
+                "text": "Toilet Lid",
+                "isCorrect": true
+            },
+            {
+                "text": "Apocalypse",
+                "isCorrect": false
+            },
+            {
+                "text": "Levant",
+                "isCorrect": false
+            },
+            {
+                "text": "Moon Shadow",
+                "isCorrect": false
+            }
+        ],
+        "type": 1
+    },
+    {
+        "id": 23,
+        "question": "What is the name of the main currency in Lonestar?",
+        "image": "https://img.youtube.com/vi/penqWJGBhSc/hqdefault.jpg",
+        "difficulty": 1,
+        "answers": [
+            {
+                "text": "Star Coin",
+                "isCorrect": true
+            },
+            {
+                "text": "Stellar Shard",
+                "isCorrect": false
+            },
+            {
+                "text": "Galactic Credit",
+                "isCorrect": false
+            },
+            {
+                "text": "Quantum Core",
+                "isCorrect": false
+            }
+        ],
+        "type": 3
+    },
+    {
+        "id": 24,
+        "question": "What is the name of the ship that has more space for units?",
+        "image": "https://img.youtube.com/vi/5lsHF82fbks/hqdefault.jpg",
+        "difficulty": 1,
+        "answers": [
+            {
+                "text": "Megaship",
+                "isCorrect": true
+            },
+            {
+                "text": "Leviathan",
+                "isCorrect": false
+            },
+            {
+                "text": "Colossus Prime",
+                "isCorrect": false
+            },
+            {
+                "text": "Omnigiant",
+                "isCorrect": false
+            }
+        ],
+        "type": 1
+    }
+]
