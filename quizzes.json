@@ -22,7 +22,7 @@
                 "isCorrect": false
             }
         ],
-        "type": 1
+        "type": 2
     },
     {
         "id": 2,
@@ -102,7 +102,7 @@
     {
         "id": 5,
         "question": "What is the name of the boss with pistols in the desert?",
-        "image": "https://img.youtube.com/vi/Sr4RMTiJg8U/hqdefault.jpg",
+        "image": "images/5.png",
         "difficulty": 1,
         "answers": [
             {
@@ -147,7 +147,7 @@
                 "isCorrect": false
             }
         ],
-        "type": 1
+        "type": 2
     },
     {
         "id": 7,
@@ -197,11 +197,11 @@
                 "isCorrect": false
             }
         ],
-        "type": 1
+        "type": 3
     },
     {
         "id": 9,
-        "question": "What is the first name of the author of A Life Between Wars?",
+        "question": "What is the first name of the author of the book \"A Life Between Wars?\"",
         "image": "https://img.youtube.com/vi/WnHK7wrH4Fw/hqdefault.jpg",
         "difficulty": 1,
         "answers": [
@@ -352,7 +352,7 @@
     {
         "id": 15,
         "question": "What is the name of the auto-drill weapon in Ice minigame?",
-        "image": "https://img.youtube.com/vi/BnHXRWPymC4/hqdefault.jpg",
+        "image": "images/15.png",
         "difficulty": 1,
         "answers": [
             {
@@ -477,7 +477,7 @@
     {
         "id": 20,
         "question": "What is the name of the currency to upgrade party abilities?",
-        "image": "https://img.youtube.com/vi/1xzlWhGokrg/hqdefault.jpg",
+        "image": "images/20.png",
         "difficulty": 1,
         "answers": [
             {
@@ -527,7 +527,7 @@
     {
         "id": 22,
         "question": "What is the criminal name of Lonestar scriptwriter's coolest boss?",
-        "image": "https://img.youtube.com/vi/cQHtyjvqMn0/hqdefault.jpg",
+        "image": "images/22.png",
         "difficulty": 1,
         "answers": [
             {
@@ -577,7 +577,7 @@
     {
         "id": 24,
         "question": "What is the name of the ship that has more space for units?",
-        "image": "https://img.youtube.com/vi/5lsHF82fbks/hqdefault.jpg",
+        "image": "images/24.png",
         "difficulty": 1,
         "answers": [
             {
@@ -697,7 +697,7 @@
                 "isCorrect": false
             }
         ],
-        "type": 2
+        "type": 1
     },
     {
         "id": 29,
@@ -727,7 +727,7 @@
     {
         "id": 30,
         "question": "What is the name of the disgraced deputy character in Ball x Pit?",
-        "image": "https://img.youtube.com/vi/0OfjdGnmxjI/hqdefault.jpg",
+        "image": "images/30.png",
         "difficulty": 1,
         "answers": [
             {
@@ -747,7 +747,7 @@
                 "isCorrect": false
             }
         ],
-        "type": 2
+        "type": 1
     },
     {
         "id": 31,
@@ -777,7 +777,7 @@
     {
         "id": 32,
         "question": "What is the starting ball of The Cohabitants character?",
-        "image": "https://img.youtube.com/vi/_9lc5Hd7SaA/hqdefault.jpg",
+        "image": "images/32.png",
         "difficulty": 1,
         "answers": [
             {
@@ -827,7 +827,7 @@
     {
         "id": 34,
         "question": "What kind of gem do you get when you merge Level 2 Obsidian and Ruby in Gem Miner TD?",
-        "image": "https://img.youtube.com/vi/EdosZ745iIE/hqdefault.jpg",
+        "image": "images/34.png",
         "difficulty": 1,
         "answers": [
             {
@@ -852,7 +852,7 @@
     {
         "id": 35,
         "question": "What is the name of the currency to place towers in Operation Octo?",
-        "image": "https://img.youtube.com/vi/ZUBieV5u-QQ/hqdefault.jpg",
+        "image": "images/35.png",
         "difficulty": 1,
         "answers": [
             {
@@ -922,7 +922,7 @@
                 "isCorrect": false
             }
         ],
-        "type": 1
+        "type": 3
     },
     {
         "id": 38,
@@ -1052,7 +1052,7 @@
     {
         "id": 43,
         "question": "What is the name of the artifact which grants insane dunk range in Hooptown Hero?",
-        "image": "https://img.youtube.com/vi/lOzAAPZdeVU/hqdefault.jpg",
+        "image": "images/43.png",
         "difficulty": 1,
         "answers": [
             {
@@ -1077,7 +1077,7 @@
     {
         "id": 44,
         "question": "What is the name of the item that prevents negative effects of your turn in Bomb Busters?",
-        "image": "https://img.youtube.com/vi/6d99b7FcySQ/hqdefault.jpg",
+        "image": "images/44.png",
         "difficulty": 1,
         "answers": [
             {
@@ -1152,7 +1152,7 @@
     {
         "id": 47,
         "question": "What is the name of the Straight combination in Dicealot?",
-        "image": "https://img.youtube.com/vi/LXvydd5gWAs/hqdefault.jpg",
+        "image": "images/47.png",
         "difficulty": 1,
         "answers": [
             {
@@ -1223,5 +1223,605 @@
             }
         ],
         "type": 1
+    },
+    {
+        "id": 50,
+        "question": "What is the name of the starting city in Easy Delivery Co.?",
+        "image": "https://img.youtube.com/vi/jo9DBtLyZ7w/hqdefault.jpg",
+        "difficulty": 1,
+        "answers": [
+            {
+                "text": "Upton",
+                "isCorrect": true
+            },
+            {
+                "text": "Snowy Peaks",
+                "isCorrect": false
+            },
+            {
+                "text": "Toprest",
+                "isCorrect": false
+            },
+            {
+                "text": "Summitown",
+                "isCorrect": false
+            }
+        ],
+        "type": 1
+    },
+    {
+        "id": 51,
+        "question": "What is the name of the Tournament organizer in Bearly Brave?",
+        "image": "images/51.png",
+        "difficulty": 1,
+        "answers": [
+            {
+                "text": "Boris",
+                "isCorrect": true
+            },
+            {
+                "text": "Toby",
+                "isCorrect": false
+            },
+            {
+                "text": "Grimble",
+                "isCorrect": false
+            },
+            {
+                "text": "Vito",
+                "isCorrect": false
+            }
+        ],
+        "type": 1
+    },
+    {
+        "id": 52,
+        "question": "What currency do you need to stick a stamp in Roach Post?",
+        "image": "https://img.youtube.com/vi/nCu9Ju7oxsQ/hqdefault.jpg",
+        "difficulty": 1,
+        "answers": [
+            {
+                "text": "Lick",
+                "isCorrect": true
+            },
+            {
+                "text": "Strength",
+                "isCorrect": false
+            },
+            {
+                "text": "Glue",
+                "isCorrect": false
+            },
+            {
+                "text": "Money",
+                "isCorrect": false
+            }
+        ],
+        "type": 3
+    },
+    {
+        "id": 53,
+        "question": "What is the name of the first playable character in Wrangle Ranch Demo?",
+        "image": "https://img.youtube.com/vi/QUeSu9052aw/hqdefault.jpg",
+        "difficulty": 1,
+        "answers": [
+            {
+                "text": "Old Macdonald",
+                "isCorrect": true
+            },
+            {
+                "text": "Buckwheat Billy",
+                "isCorrect": false
+            },
+            {
+                "text": "Sheldon Sprout",
+                "isCorrect": false
+            },
+            {
+                "text": "Willy Nilly",
+                "isCorrect": false
+            }
+        ],
+        "type": 1
+    },
+    {
+        "id": 54,
+        "question": "What is the name of bonus combination containing exactly one cow in Wrangle Ranch Demo?",
+        "image": "https://img.youtube.com/vi/QUeSu9052aw/hqdefault.jpg",
+        "difficulty": 1,
+        "answers": [
+            {
+                "text": "Cash Cow",
+                "isCorrect": true
+            },
+            {
+                "text": "Milking it",
+                "isCorrect": false
+            },
+            {
+                "text": "Beef Up",
+                "isCorrect": false
+            },
+            {
+                "text": "Dairy Queen",
+                "isCorrect": false
+            }
+        ],
+        "type": 1
+    },
+    {
+        "id": 55,
+        "question": "What is the name of the default ship in Fabric of Reality?",
+        "image": "https://img.youtube.com/vi/8rOjixguqhA/hqdefault.jpg",
+        "difficulty": 1,
+        "answers": [
+            {
+                "text": "HS Explorer",
+                "isCorrect": true
+            },
+            {
+                "text": "CC Surveyor",
+                "isCorrect": false
+            },
+            {
+                "text": "LS Fighter",
+                "isCorrect": false
+            },
+            {
+                "text": "MD Cruiser",
+                "isCorrect": false
+            }
+        ],
+        "type": 1
+    },
+    {
+        "id": 56,
+        "question": "What is the name of the one-stop shop in Flick Shot Rogues?",
+        "image": "images/56.png",
+        "difficulty": 1,
+        "answers": [
+            {
+                "text": "Buccaneer's Bazaar",
+                "isCorrect": true
+            },
+            {
+                "text": "Blackheart's Booty Emporium",
+                "isCorrect": false
+            },
+            {
+                "text": "Kraken's Cache",
+                "isCorrect": false
+            },
+            {
+                "text": "Davy Jones' Dry Goods",
+                "isCorrect": false
+            }
+        ],
+        "type": 1
+    },
+    {
+        "id": 57,
+        "question": "What is the name of item that makes lizards sleep in Chronoquartz?",
+        "image": "https://img.youtube.com/vi/immT_5XQku8/hqdefault.jpg",
+        "difficulty": 1,
+        "answers": [
+            {
+                "text": "Red Berry",
+                "isCorrect": true
+            },
+            {
+                "text": "Leader's Sword",
+                "isCorrect": false
+            },
+            {
+                "text": "Chronoquartz",
+                "isCorrect": false
+            },
+            {
+                "text": "Toxic Flower",
+                "isCorrect": false
+            }
+        ],
+        "type": 2
+    },
+    {
+        "id": 58,
+        "question": "What is the name of rune that matches with any element in Runeborn?",
+        "image": "https://img.youtube.com/vi/5Fb9GwVlEpk/hqdefault.jpg",
+        "difficulty": 1,
+        "answers": [
+            {
+                "text": "Wild",
+                "isCorrect": true
+            },
+            {
+                "text": "Rainbow",
+                "isCorrect": false
+            },
+            {
+                "text": "Prismatic",
+                "isCorrect": false
+            },
+            {
+                "text": "Chromatic",
+                "isCorrect": false
+            }
+        ],
+        "type": 3
+    },
+    {
+        "id": 59,
+        "question": "What is the name of basic employee in Coal LLC?",
+        "image": "https://img.youtube.com/vi/i3NAp7-psdc/hqdefault.jpg",
+        "difficulty": 1,
+        "answers": [
+            {
+                "text": "Intern",
+                "isCorrect": true
+            },
+            {
+                "text": "Trainee",
+                "isCorrect": false
+            },
+            {
+                "text": "Junior",
+                "isCorrect": false
+            },
+            {
+                "text": "Apprentice",
+                "isCorrect": false
+            }
+        ],
+        "type": 1
+    },
+    {
+        "id": 60,
+        "question": "What is triggering in Rana Card when your Time Pressure gauge is overflowed?",
+        "image": "https://img.youtube.com/vi/kz7hScFygq8/hqdefault.jpg",
+        "difficulty": 1,
+        "answers": [
+            {
+                "text": "Time Explosion",
+                "isCorrect": true
+            },
+            {
+                "text": "Temporal Boom",
+                "isCorrect": false
+            },
+            {
+                "text": "Chronosurge",
+                "isCorrect": false
+            },
+            {
+                "text": "Singularity",
+                "isCorrect": false
+            }
+        ],
+        "type": 1
+    },
+    {
+        "id": 61,
+        "question": "What is the name of woodland final boss base form in He is Coming?",
+        "image": "https://img.youtube.com/vi/eqhP-uJ147c/hqdefault.jpg",
+        "difficulty": 1,
+        "answers": [
+            {
+                "text": "Leshen",
+                "isCorrect": true
+            },
+            {
+                "text": "Hydra",
+                "isCorrect": false
+            },
+            {
+                "text": "Rootwarden",
+                "isCorrect": false
+            },
+            {
+                "text": "Thornking",
+                "isCorrect": false
+            }
+        ],
+        "type": 2
+    },
+    {
+        "id": 62,
+        "question": "What itemset do you get when you combine Watermelon, Fish and Lemon?",
+        "image": "https://img.youtube.com/vi/9EnjSZlsVKg/hqdefault.jpg",
+        "difficulty": 1,
+        "answers": [
+            {
+                "text": "Seafood Hotpot",
+                "isCorrect": true
+            },
+            {
+                "text": "Hearthforged Skillet",
+                "isCorrect": false
+            },
+            {
+                "text": "Seasoning Sprinkler",
+                "isCorrect": false
+            },
+            {
+                "text": "Tabletop Kettle",
+                "isCorrect": false
+            }
+        ],
+        "type": 2
+    },
+    {
+        "id": 63,
+        "question": "What is the name of the company where you work in Piñata Go Boom?",
+        "image": "https://img.youtube.com/vi/9Gsap9h9i4o/hqdefault.jpg",
+        "difficulty": 1,
+        "answers": [
+            {
+                "text": "P-Corp",
+                "isCorrect": true
+            },
+            {
+                "text": "The Office",
+                "isCorrect": false
+            },
+            {
+                "text": "Boomworks",
+                "isCorrect": false
+            },
+            {
+                "text": "Smash Enterprise",
+                "isCorrect": false
+            }
+        ],
+        "type": 1
+    },
+    {
+        "id": 64,
+        "question": "What is the name of the starting car in Trainatic?",
+        "image": "https://img.youtube.com/vi/bAC61OLeF7A/hqdefault.jpg",
+        "difficulty": 1,
+        "answers": [
+            {
+                "text": "Spike Shooter",
+                "isCorrect": true
+            },
+            {
+                "text": "Minigun",
+                "isCorrect": false
+            },
+            {
+                "text": "The Shredder",
+                "isCorrect": false
+            },
+            {
+                "text": "The Clearcut Cannon",
+                "isCorrect": false
+            }
+        ],
+        "type": 1
+    },
+    {
+        "id": 65,
+        "question": "What is the name of the place where you can buy permissions in Old Market Simulator?",
+        "image": "images/65.png",
+        "difficulty": 1,
+        "answers": [
+            {
+                "text": "Grand Bazaar",
+                "isCorrect": true
+            },
+            {
+                "text": "Crossroads Emporium",
+                "isCorrect": false
+            },
+            {
+                "text": "Guilder's Plaza",
+                "isCorrect": false
+            },
+            {
+                "text": "Merchants' Great Hall ",
+                "isCorrect": false
+            }
+        ],
+        "type": 1
+    },
+    {
+        "id": 66,
+        "question": "What building is required to make a new Person in Icetwine?",
+        "image": "https://img.youtube.com/vi/PJ7kGIEUMvM/hqdefault.jpg",
+        "difficulty": 2,
+        "answers": [
+            {
+                "text": "House",
+                "isCorrect": true
+            },
+            {
+                "text": "Dwelling",
+                "isCorrect": false
+            },
+            {
+                "text": "Hearth",
+                "isCorrect": false
+            },
+            {
+                "text": "Cottage",
+                "isCorrect": false
+            }
+        ],
+        "type": 2
+    },
+    {
+        "id": 67,
+        "question": "What is the name of the \"Balatro Jokers\" mechanic in INVENTORIX?",
+        "image": "https://img.youtube.com/vi/O4vNv3Nt1Wc/hqdefault.jpg",
+        "difficulty": 1,
+        "answers": [
+            {
+                "text": "Alien",
+                "isCorrect": true
+            },
+            {
+                "text": "Artefact",
+                "isCorrect": false
+            },
+            {
+                "text": "Relic",
+                "isCorrect": false
+            },
+            {
+                "text": "Crew",
+                "isCorrect": false
+            }
+        ],
+        "type": 3
+    },
+    {
+        "id": 68,
+        "question": "What is the name of the estate in Blue Prince?",
+        "image": "https://img.youtube.com/vi/jm4gMD8vz5E/hqdefault.jpg",
+        "difficulty": 1,
+        "answers": [
+            {
+                "text": "Mount Holly",
+                "isCorrect": true
+            },
+            {
+                "text": "Fenn Aries",
+                "isCorrect": false
+            },
+            {
+                "text": "Reddington",
+                "isCorrect": false
+            },
+            {
+                "text": "Castle Orindia",
+                "isCorrect": false
+            }
+        ],
+        "type": 2
+    },
+    {
+        "id": 69,
+        "question": "What is the name of the basic building to smelt ore in Another Farm Roguelike: Rebirth?",
+        "image": "https://img.youtube.com/vi/SdKA8b9RJa4/hqdefault.jpg",
+        "difficulty": 1,
+        "answers": [
+            {
+                "text": "Campfire",
+                "isCorrect": true
+            },
+            {
+                "text": "Hearth",
+                "isCorrect": false
+            },
+            {
+                "text": "Fire pit",
+                "isCorrect": false
+            },
+            {
+                "text": "Pyre",
+                "isCorrect": false
+            }
+        ],
+        "type": 2
+    },
+    {
+        "id": 70,
+        "question": "Which enemy has an ability to reduce incoming damage by 3 in Merge Maestro?",
+        "image": "images/70.png",
+        "difficulty": 1,
+        "answers": [
+            {
+                "text": "Shark",
+                "isCorrect": true
+            },
+            {
+                "text": "Snake",
+                "isCorrect": false
+            },
+            {
+                "text": "Pufferfish",
+                "isCorrect": false
+            },
+            {
+                "text": "Dino",
+                "isCorrect": false
+            }
+        ],
+        "type": 2
+    },
+    {
+        "id": 71,
+        "question": "What is the name of the domain that you need to counter with Hope in dotAGE?",
+        "image": "https://img.youtube.com/vi/Q7YjRib9qBg/hqdefault.jpg",
+        "difficulty": 1,
+        "answers": [
+            {
+                "text": "Fear",
+                "isCorrect": true
+            },
+            {
+                "text": "Terror",
+                "isCorrect": false
+            },
+            {
+                "text": "Death",
+                "isCorrect": false
+            },
+            {
+                "text": "Anguish",
+                "isCorrect": false
+            }
+        ],
+        "type": 3
+    },
+    {
+        "id": 72,
+        "question": "What is the name of the location where you can see endings in Lingo 2?",
+        "image": "images/72.png",
+        "difficulty": 1,
+        "answers": [
+            {
+                "text": "Control Center",
+                "isCorrect": true
+            },
+            {
+                "text": "Gallery",
+                "isCorrect": false
+            },
+            {
+                "text": "The Tower",
+                "isCorrect": false
+            },
+            {
+                "text": "The Entrance",
+                "isCorrect": false
+            }
+        ],
+        "type": 3
+    },
+    {
+        "id": 73,
+        "question": "What is the name of the location with clues how to find letters in Lingo 2?",
+        "image": "images/73.png",
+        "difficulty": 1,
+        "answers": [
+            {
+                "text": "The Hinterlands",
+                "isCorrect": true
+            },
+            {
+                "text": "Daedalus",
+                "isCorrect": false
+            },
+            {
+                "text": "The Plaza",
+                "isCorrect": false
+            },
+            {
+                "text": "The Words",
+                "isCorrect": false
+            }
+        ],
+        "type": 2
     }
 ]
